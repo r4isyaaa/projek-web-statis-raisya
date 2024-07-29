@@ -1,1 +1,83 @@
 projekwebstatisraisya
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>raisya web statisss</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styleraisweb.css">
+</head>
+<body>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-center" style="max-width:1500px">
+  <img class="w3-image" src="ica1.jpg" alt="Me" width="1500" height="600">
+  <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">RAISYA</h1>
+    <h5 class="w3-hide-large" style="white-space:nowrap">RAISYA</h5>
+    <h3 class="w3-hide-medium w3-hide-small">JULIA RIANI</h3>
+  </div>
+  
+  <!-- Navbar (placed at the bottom of the header image) -->
+  <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-hide-small" style="bottom:-16px">
+    <a href="#" class="w3-bar-item w3-button">Home</a>
+    <a href="#portfolio" class="w3-bar-item w3-button">Portfolio</a>
+    <a href="#Contact" class="w3-bar-item w3-button">About</a>
+  </div>
+</header>
+
+<!-- Navbar on small screens -->
+<div class="w3-center w3-light-grey w3-padding-16 w3-hide-large w3-hide-medium">
+<div class="w3-bar w3-light-grey">
+  <a href="#" class="w3-bar-item w3-button">Home</a>
+  <a href="#portfolio" class="w3-bar-item w3-button">Portfolio</a>
+  <a href="#Contact" class="w3-bar-item w3-button">About</a>
+</div>
+</div>
+<!-- Page content -->
+<div class="w3-content w3-padding-large w3-margin-top" id="portfolio">
+
+  <!-- Images (Portfolio) -->
+  <img src="ica6.jpg" alt="Ocean" class="w3-image" width="1000" height="500">
+  <img src="ica22.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="ica3.jpg" alt="Falls" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="ica4.jpg" alt="Skies" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="ica7.jpg" alt="Mountains" class="w3-image w3-margin-top" width="1000" height="500">
+
+  <!-- Contact -->
+  <div class="w3-light-grey w3-padding-large w3-padding-32 w3-margin-top" id="Contact">
+    <h3 class="w3-center">About</h3>
+    <hr>
+    <p>Nama saya Raisya julia riani, seorang siswa kelas XII dari SMKN 1 Maja. Saya lahir dan besar di tengah
+         keasrian Kota Majalengka pada tanggal 4 Juli 2007. Keluarga saya terdiri dari orang tua yang mendukung dan
+         seorang kakak laki laki yang hebat juga seorang adik perempuan yang menjadi sumber keceriaan.
+<br><br>
+        Minat saya yang besar terletak pada dunia olahraga, khususnya pada voli dan atletik. Sejak SMP, saya mulai tertarik 
+        dengan dunia olahraga. Ketertarikan ini memotivasi saya untuk terus berlatih dengan giat walaupun hanya sekedar hobi.
+<br><br>       
+        Saya aktif dalam berbagai kegiatan ekstrakurikuler yang berkaitan dengan olahraga. Saya menjadi anggota klub 
+        di beberapa klub bola voli di daerah saya, di mana kami sering mengikuti kompetisi dan turnamen antar klub.
+        Selain itu, saya juga sempat mengikuti latihan bersama tim atletik SMKN 1 Maja menjelang O2SN se-kab Majalengka.
+<br><br>        
+        Keinginan untuk terus berkembang dan menguasai lebih banyak aspek olahraga membawa saya ikut serta dalam O2SN
+         dan kejurnas antar SLTA di Majalengka. Saya percaya bahwa melalui kompetisi, saya dapat menguji kemampuan saya 
+         sekaligus belajar dari pengalaman yang saya lewati.
+<br><br>        
+        Selain aspek teknis, saya juga tertarik pada materi olahraga untuk memberikan dampak positif dalam masyarakat.
+         Saya terus belajar banyak dari pelatih-pelatih saya, seperti pengembangan mindset dan mengasah mental.
+<br><br>
+        Semangat saya dalam bidang olahraga tidak hanya bertujuan untuk pengembangan diri, tetapi juga untuk berkontribusi 
+        dalam menciptakan semangat membantu masyarakat. Saya yakin bahwa dengan penguasaan olahraga kita 
+        dapat menciptakan pola hidup yang sehat.</p>
+
+    
+
+  </div>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+
+<!-- End page content -->
+</div>
+
+</body>
+</html>
+
