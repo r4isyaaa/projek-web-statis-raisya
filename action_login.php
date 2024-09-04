@@ -30,7 +30,7 @@ if ($result->num_rows > 0) {
     
     // Verify password (no hashing in this case)
     if ($password === $row['password']) {
-        header ("Location: index.php");
+        header ("Location: index.html");
         // Redirect to a protected page or dashboard
     } else {
         echo "Invalid password.";
